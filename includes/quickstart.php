@@ -16,7 +16,7 @@
 
 	//generate output depending on the user name received from client
 	$userNames = array(
-		'RICHARD','Victor','Frank','Tammy','Albert','Diana','Harold','Patrick','Christopher','Jennifer','Joan','Raymond','Gerald','Frances','Joan','Timothy','Arthur','Sean','Scott','Kevin',
+		'Richard','Victor','Frank','Tammy','Albert','Diana','Harold','Patrick','Christopher','Jennifer','Joan','Raymond','Gerald','Frances','Joan','Timothy','Arthur','Sean','Scott','Kevin',
 		'Andrea','Barbara','Carolyn','Jose','Charles','Terry','Kathy','Anthony','Mildred','Emily','Joyce','Andrew','Ryan','Janet','Emily','Alice','Ruth','Billy','Donald','Jeffrey',
 		'Shawn','Jesse','David','Daniel','Jessica','Margaret','Emily','Dennis','Denise','Lawrence','Ryan','Andrew','Carlos','Theresa','Randy','Brian','Norma','Gloria','Kathleen','Judith',
 		'Lori','Willie','Matthew','Eric','Daniel','Joshua','Aaron','Judy','Kathryn','Doris','Harold','Ernest','Janice','Tammy','Larry','Deborah','Charles','Russell','Todd','Cheryl',
